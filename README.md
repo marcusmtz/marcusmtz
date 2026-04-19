@@ -55,9 +55,9 @@ This profile includes personal projects, practice work, and ongoing learning exp
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusmtz&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmtz&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -70,14 +70,6 @@ This profile includes personal projects, practice work, and ongoing learning exp
 ![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight)
 
 </div>
-
----
-
-### Contact
-LinkedIn: (add your link)  
-Email: (optional)
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
